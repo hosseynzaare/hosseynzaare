@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @hosseynzaare
-- 👀 I’m interested in colabrating with others in python projects
+- 👀 I’m interested in collaborating with others in python projects
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
